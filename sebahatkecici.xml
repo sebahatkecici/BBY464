@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<name>Sebahat</name>
+<surname>Kecici</surname>
+<heading>XML PROJECT</heading>
+</bookstore>
+    
+    <book categori="Roman">
+        <title lang="tur">Fareler ve İnsanlar</title>
+        <author>John Steinbeck</author>
+        <year>1972</year>
+        <price>11,00 TL</price>
+        <ISBN>9789755705859</ISBN>
+        <publication>Sel Yayıncılık</publication>
+        <PhysicalDescription>111</PhysicalDescription>
+        <abstract>Fareler ve İnsanlar, birbirine zıt karakterdeki iki mevsimlik tarım işçisinin, zeki George Milton ve onun güçlü kuvvetli ama akli dengesi bozuk yoldaşı Lennie Small’un öyküsünü anlatır. Küçük bir toprak satın alıp insanca bir hayat yaşamanın hayalini kuran bu ikilinin öyküsünde dostluk ve dayanışma duygusu önemli bir yer tutar. Steinbeck insanın insanla ilişkisini anlatmakla kalmaz insanın doğayla ve toplumla kurduğu ilişkileri de konu eder bu destansı romanında. Kitabın ismine ilham veren Robert Burns şiirindeki gibi; “En iyi planları farelerin ve insanların / Sıkça ters gider…"</abstract>
+        
+    </book>
+
+    
+     <book categori="Roman">
+        <title lang="tur">Toprak Ana</title>
+        <author>Cengiz Aytmatov</author>
+        <year>2015</year>
+        <price>12,00 TL</price>
+        <ISBN>9789754371543</ISBN>
+        <publication>Ötüken</publication>
+        <PhysicalDescription>136</PhysicalDescription>
+        <abstract>Cengiz Aytmatov, Toprak Ana romanında erkekleri askere alınan bozkırın ortasındaki bir Kırgız köyünde geride kalanların çektiği sıkıntıları anlatıyor. Eldeki yetersiz yiyeceğin muhtaç olandan başlanarak dağıtılması, dört gözle beklenen hasat zamanları, umutların hasat zamanına ertelenmesi, savaş yüzünden ürünün hemen hepsinin merkezden istenmesi, boşa çıkan umutlar, yine açlık, sefalet, bir yandan cepheden gelen ölüm haberleri, umutsuz bekleyişler, savaşın uzun sürmesi üzerine aşağı çekilen cepheye çağrılma yaşı, anaların evlatlarını bir bir askere göndermesi, ayrılıklar, gözyaşları... Yani tek kelimeyle ve bütün zulmetiyle; savaş. Cengiz Aytmatov, o her zamanki berrak ve akıcı üslûbuyla bizleri, adeta insanları öğütür gibi harcayan savaş düzeneğinin yarattığı trajedilerle sarsıyor.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Veba Geceleri</title>
+        <author>Orhan Pamuk</author>
+        <year>2018</year>
+        <price>27,33 TL</price>
+        <ISBN>9789750849282</ISBN>
+        <publication>Yapı Kredi Yayınları</publication>
+        <PhysicalDescription>544</PhysicalDescription>
+        <abstract>Orhan Pamuk’un üzerinde 5 yıldır çalıştığı Veba Geceleri, 1901 yılında 3. Veba Pandemisi döneminde Osmanlı’nın 29. Vilayeti Minger adasında geçiyor.  Hem sürükleyici bir siyaset ve aşk romanı hem de Pamuk’un salgın, karantina, devlet ve birey konularını bir masal havasıyla tartıştığı bu tarihi roman, konusuyla yaşadığımız günlere de ışık düşürüyor. 1901 baharında Osmanlı İmparatorluğu’nun 29. vilayeti Minger Adası’nda veba salgını baş gösterince Sultan Abdülhamit önce Sağlık Başmüfettişi kimyager Bonkowski Paşa’yı, onun arkasından da genç ve başarılı Doktor Nuri’yi salgını durdurması için adaya gönderir. Padişah kısa bir süre önce genç doktoru, sarayda hapis hayatı yaşattığı ağabeyi önceki padişah V. Murat’ın kızı Pakize Sultan ile evlendirmiştir ve Pakize Sultan da bu yolculukta kocasına eşlik etmektedir. Adada ise genç ve milliyetçi Osmanlı subayı Kolağası Kâmil, onun âşık olduğu adalı Zeynep ve her şeye yetişmeye çalışan Vali Sami Paşa ile güzel sevgilisi Marika vardır. Karantina yasaklarına itaat edilmesi için çaba harcayan bu insanların vebayla, adadaki geleneklerle ve sonunda birbirleriyle ve ölüm tehditleriyle savaşının ve yaşadıkları aşkların hikâyesidir.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Momo</title>
+        <author>Michael Ende</author>
+        <year>2017</year>
+        <price>16,07 TL</price>
+        <ISBN>9786052993019</ISBN>
+        <publication>Pegasus Yayınları</publication>
+        <PhysicalDescription>304</PhysicalDescription>
+        <abstract>Zaman, yaşamın kendisidir. Ve yaşamın yeri yürektir. Momo, büyük bir kentin tiyatro harabelerinde yaşayan küçük bir kızdır. Buldukları ya da kendisine hediye edilenler dışında hiçbir şeyi yoktur. Ancak olağanüstü bir yeteneği vardır: Momo, muhteşem bir dinleyicidir ve bunun için oldukça bol zamanı vardır. Bir gün hayaletimsi topluluk “duman adamlar” ortaya çıkar. İnce hesaplı planlar kurup insanların zamanını çalarlar. Onları durduracak tek kişiyse Momo’dur. Momo elinde bir çiçek, koltuğunun altında bir kaplumbağa ve gizemli Hora Usta’nın da yardımıyla koskoca duman adamlar ordusunun karşısında tek başına durur. Acaba Momo, zamanı çalan adamları tek başına alt edebilecek midir? Toplumumuz ve günümüz insanının zaman algısı ve zamanı okuması üzerine bir masal olan Momo’yla Michael Ende, Alman Gençlik Edebiyatı Ödülü’ne layık görülmüştür. Pek çok kez sinemaya uyarlanan Momo, kırktan fazla dile çevrilmiş, tüm dünyada 7 milyonun üzerinde satılmıştır.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Körlük</title>
+        <author>Jose Saramago</author>
+        <year>2019</year>
+        <price>19,48 TL</price>
+        <ISBN>9786052980811</ISBN>
+        <publication>Kırmızı Kedi Yayınevi</publication>
+        <PhysicalDescription>336</PhysicalDescription>
+        <abstract>Adı bilinmeyen bir ülkenin adı bilinmeyen bir kentinde, arabasının direksiyonunda trafik ışığının yeşile dönmesini bekleyen bir adam ansızın kör olur. Ancak karanlıklara değil, bembeyaz bir boşluğa gömülür. Arkasından, körlük salgını bütün kente, hatta bütün ülkeye yayılır. Ne yönetim kalır ülkede, ne de düzen; bütün körler karantinaya alınır. Hayal bile edilemeyecek bir kaos, pislik, açlık ve zorbalık hüküm sürmektedir artık. Yaşam durmuştur, insanların tek çabası, ne pahasına olursa olsun hayatta kalmaktır. Roman, kentteki akıl hastanesinde karantinaya alınan, oradan kurtulunca da birbirinden ayrılmayan, biri çocuk yedi kişiye odaklanır. Aralarında, bütün kentte gözleri gören tek kişi olan ve gruptakilere rehberlik eden bir kadın da vardır. Bu yedi kişi, cehenneme dönen bu kentte, hayatta kalabilmek için inanılmaz bir mücadele verir. Saramago’nun müthiş bir gözlem gücüyle betimlediği bu kaotik dünya, insanın karanlık yüzünün simgesi. Körlük, ürkütücü bir roman, beklenmedik bir felaketi yaşayan bir toplumun nasıl çöktüğünün, nasıl bencilleştiğinin ve değer yargılarını yitirdiğinin hikâyesi. Konusunun ürkütücülüğüne rağmen olağanüstü bir şiirsellikle anlatılmış bu unutulmaz roman, usta yazarın belki de en etkileyici yapıtı.</abstract>
+       
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Saatleri Ayarlama Enstitüsü</title>
+        <author>Ahmet Hamdi Tanpınar</author>
+        <year>2017</year>
+        <price>28,75 TL</price>
+        <ISBN>9789759955762</ISBN>
+        <publication>Dergah Yayınları</publication>
+        <PhysicalDescription>382</PhysicalDescription>
+        <abstract>Ahmet Hamdi Tanpınar'ın şiiri sembolist bir ifade üzerine kurulmuştur. Aynı anlatım tarzı romanlarına da zaman zaman sirayet eder. Ancak muhteva açısından metafizik eğilimleri ile estetik endişelerini şiire ayırdığı halde, sosyal temalar için nesri seçmiştir. Romanları, zengin hayat hikayesinden taşarak Türkiye meselelerine kendine has yorumlar getirir.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Satranç</title>
+        <author>Stefan Zweig</author>
+        <year>2019</year>
+        <price>10,00 TL</price>
+        <ISBN>9786053606116</ISBN>
+        <publication>Türkiye İş Bankası Kültür Yayınları</publication>
+        <PhysicalDescription>77</PhysicalDescription>
+        <abstract>Stefan Zweig, çok geniş bir psikoloji birikimini eserlerinde bütünüyle kullanmış ender yazarlardandır. Onun dünya edebiyatında bir biyografi yazarı olarak kazandığı haklı ünün temelinde de bu özelliği, yani yazarlığının yanı sıra çok usta bir psikolog olması yatar. Satranç, Zweig’ın psikolojik birikimini bütünüyle devreye soktuğu bir öyküdür ve bu öykünün baş kişileri, tamamen yazarın biyografilerinde ele aldığı kişileri işleyiş biçimiyle sergilenmiştir. Zweig ölümünden hemen önce tamamladığı birkaç düzyazı metinden biri olan Satranç’ı kaleme aldığı sırada, karısı Lotte Zweig ile birlikte göç ettiği Brezilya’da yaşamaktaydı. Satranç’ta da, olay yeri olarak New York’dan Buenos Aires’e gitmekte olan bir yolcu gemisini seçmiştir. Bu gemide tamamen rastlantı sonucu karşılaşan üç kişi: yeni dünya satranç şampiyonu Mirko Czentovic, sıradan bir satranç oyuncusu olan anlatıcı ve bir zamanlar çok usta bir satranç oyuncusu olan, ama hayli zamandır satrançtan uzak kalmış bulunan Dr. B., öykünün aktörleridir.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Dönüşüm</title>
+        <author>Franz Kafka</author>
+        <year>2019</year>
+        <price>3,78 TL</price>
+        <ISBN>9786053609322</ISBN>
+        <publication>Türkiye İş Bankası Kültür Yayınları</publication>
+        <PhysicalDescription>74</PhysicalDescription>
+        <abstract>İlk kez 1915’te “Die Weissen Blaetter” adlı aylık dergide yayımlanan Dönüşüm, Kafka’nın en uzun ve en tanınmış öyküsüdür ve yayımlanmasının üzerinden nerdeyse bir asır geçmesine rağmen hâlâ tüm dünyada en çok okunan kitaplar arasındadır. 17 Ekim 1912’de Felice Bauer’e gönderdiği mektupta Kafka Amerika romanı üzerinde çalıştığını, ilerleyemediğini görünce sıkıldığını ve yataktan kalkamaz hale geldiğini, bu nedenle bir öykü yazarak ara vermek istediğini yazar. Dönüşüm işte böyle ortaya çıkar. Kumaş pazarlamacısı olan Gregor Samsa’nın uykusundan kocaman bir böceğe dönüşerek uyanmasıyla başlayan Dönüşüm, giderek gerçeklikle kurmacanın sınırlarını zorlayan müthiş bir anlatıma dönüşür.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="en">Gullivers Travels</title>
+        <author>Jonathan Swift</author>
+        <year>2019</year>
+        <price>6,00 TL</price>
+        <ISBN>9786052491935</ISBN>
+        <publication>Dorlion Yayınevi</publication>
+        <PhysicalDescription>294</PhysicalDescription>
+        <abstract>Roman Gulliver'in yaptığı iki düşsel gezileri anlatmaktadır.  Gulliver, gezilerinin ilki Cüceler Ülkesi Liliput'a, ikincisi Devler Ülkesi Brobdingnag'a yapılmıştır. Cüceler Ülkesinde yazar esasında toplumsal düzeni, ahlaki düşkünlüğü, soysuzluğu,   Gulliver'in yaşadığı zamanın İngiltere’sini dile getirmektedir. İlk gezisinde cücelerin arasında dev gibi kalan Gulliver, ikinci gezisinde bu kez devler arasında bir cüce gibi kalmıştır. Eserin üçüncü gezisi Laputa isimli bilim ülkesine, dördüncüsü ise asil atların insanları yönettiği Houyhnhnmlar ülkesi’ne yapılmıştır. Yapılan bu gezilerin hepsi aslında 18. Yy İngiltere’si ve o vakitlerdeki siyasi düzen, sosyal hayat ve ruh dünyalarına yapılmış gezileri temsil eden sembolik gezilerdir. Bu gezilerin amacı siyasetin ve bilim dünyasının bir parodisini çıkarmak olmaktadır.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Camdaki Kız</title>
+        <author>Gülseren Budayıcıoğlu</author>
+        <year>2019</year>
+        <price>29,25 TL</price>
+        <ISBN>9786050959628</ISBN>
+        <publication>Doğan Kitap</publication>
+        <PhysicalDescription>322</PhysicalDescription>
+        <abstract>“Küçükken çekilen acıların ateşi kolay sönmüyor, kolay unutulmuyor ve izlerini hayatımız boyunca üstümüzde taşıyoruz.”Aşk yakıyor Ayrılık kavuruyor Aldatılmaksa hep çok acıtıyor… Bize çocukluk acılarını tekrar yaşatacak kişileri gözünden tanır, başkasına değil, ona âşık oluruz. Hayat onu kendi ellerimizle buldurur bize. Kaderimiz aslında doğduğumuz evlerde yazılır. Yine o evlerde yaralanır, o yaralarla büyür, sonunda o yaraların bizi götürdüğü yere gideriz. Ancak mutluluk her zaman o yolda değildir… “Bu kitapta her zamanki gibi gerçek bir yaşam hikâyesi anlatacağım sizlere. Hep lüks içinde yaşamış ama kaderi daha baştan kötü yazılmış Camdaki Kız ile bir varoş çocuğunun aşk hikâyesi bu.”</abstract>
+       
+    </book>
+    
+     <book categori="Şiir">
+        <title lang="tur">Düşlerim Şiir Kitabı</title>
+        <author>Özlem Gümüş</author>
+        <year>2018</year>
+        <price>22,50 TL</price>
+        <ISBN>9786058132801</ISBN>
+        <publication>Kitap Saati Yayınları</publication>
+        <PhysicalDescription>128</PhysicalDescription>
+        <abstract>“Sevgili okurlar, Şiir kitabımda yer verdiğim duygular, hayatımın içinden gelen samimi itiraflar. Doğrularımın yüreğinden kopan sözler ve anlam içerikli duygular. Şiirlerimin ilhamı, hayatımın hikâyesinden geliyor. Her biri ayrı bir anlam, ayrı bir ifade içeriyor, ve yine birbirine bağlı aynı hikâyenin karakterlerini ele alıyor. Şiirlerime başlarken sadece hayatı anlamayı ve ifade etmeyi düşündüm.Doğru olduğuna inandığım düşüncelerimi gerçekleştirmek istedim. Her birinde ayrı bir heyecan ve ayrı bir düzen buldum. Şiirlerimde bana göre doğru bildiğim, okuyabildiğim. Gerçekse anlayabildiğim. Temennim, okuyucular olarak beğenerek ve severek okumanızdır.Saygılarımla,</abstract>
+         
+    </book>
+    
+     <book categori="Şiir">
+        <title lang="tur">Küçük Kara Balık</title>
+        <author>Samed Behrengi</author>
+        <year>2017</year>
+        <price>33,00 TL</price>
+        <ISBN>9786050944730</ISBN>
+        <publication>Doğan Egmont</publication>
+        <PhysicalDescription>44</PhysicalDescription>
+        <abstract>“Kara Balık yorulmuştu amaçsız gezinmekten, Sıkılmıştı boşuna ileri geri gidip gelmekten, Yaşadığı ırmaktan ibaret değildi bu evren, Yollara düşmeliydi çok geçmeden, Uzaklarda olup bitenleri öğrenmeliydi durup dinlenmeden” İranlı yazar Samed Behrengi’nin, klasikleşmiş eserinin unutulmaz kahramanı Küçük Kara Balık, cesaret ve kararlılıkla gerçekleştirdiği yolculuğuna çocukları davet ediyor. Bol ödüllü yazar Mavisel Yener Türkçenin olanaklarını ve zenginliğini sergilediği kalemiyle Küçük Kara Balık’ı ilk kez şiirsel metin olarak Türkçeye kazandırıyor. Çocuklar manzum hikâyenin yetkin bir örneğini okurken hem eğlenecek hem de dünya edebiyatının önemli eserlerinden birini tanıyacaklar.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Otomatik Portakal</title>
+        <author>Anthony Burgess</author>
+        <year>2019</year>
+        <price>8,79 TL</price>
+        <ISBN>9786052957929</ISBN>
+        <publication>Türkiye İş Bankası Kültür Yayınları</publication>
+        <PhysicalDescription>171</PhysicalDescription>
+        <abstract>Tüm hayvanların en zekisi, iyiliğin ne demek olduğunu bilen insanoğluna bir baskı yöntemi uygulayarak onu otomatik işleyen bir makine haline getirenlere kılıç kadar keskin olan kalemimle saldırmaktan başka hiçbir şey yapamıyorum…” Karabasan gibi bir gelecek atmosferi… Geceleyin sokakları terörize eden, yaşamları şiddet üzerine kurulu gençler ve bu hikâyenin anti-kahramanı Alex... Yayımlandığı günden bu yana “kült roman” özelliğini kaybetmeyen Otomatik Portakal’ın 15 yaşındaki kahramanı, “iyi ya da kötü nedir?”, “İnsan özgür iradesiyle kaderini seçebilir mi?” gibi soruların yanıtlarını kurcalarken, şiddet dolu sahnelere Beethoven’ın, Mozart’ın müziği eşlik ediyor; Alex ve “çete kardeşleri” Pete, Georgie ve Aptalof, yarattıkları yepyeni dilin kelimelerini okurun zihnine kazıyorlar. Ünlü yönetmen Stanley Kubrick tarafından 1971’de filme de çekilen Otomatik Portakal tüm zamanların en sarsıcı romanlarından.</abstract>
+        
+    </book>
+
+    
+    
+     <book categori="Roman">
+        <title lang="tur">Yabancı</title>
+        <author>Albert Camus</author>
+        <year>2019</year>
+        <price>11,70 TL</price>
+        <ISBN>9789750741272</ISBN>
+        <publication>Can Yayınları</publication>
+        <PhysicalDescription>111</PhysicalDescription>
+        <abstract>Albert Camus'nün ( 1913-1960) en tanınmış, en çok yabancı dile çevrilmiş, en çok incelenmiş ve hala en çok satan kitaplar arasında yer alan Yabancı, aynı zamanda yazarın en gizemli yapıtı. Ölümün egemen olduğu bir varlıkın en anlamsız olgularını saçma bir düzensizlik içinde yaşayan bu romanın başkişisi Meursault, bir simge kahraman değildir, adı olmayan bir Yabancıdır; bu eksik kimlik, gerçeklikten algıladığı şeyi yapılandıramayan, yeniden örgütleyemeyen, ama gerçekliğin yankılarını yakalamaya çalışan bir boş bilincin imgesidir. Onun kayıtsızlığı ve edilgenliği, işte bu boş bilincin ürünüdür. Yabancı, büyüleyici gücünü, içinde barındırdığı trajedi duygusuna borçlu: Bir türlü ele geçirilemeyen anlamın sürekli aranması, bilinç ile toplumsal dünya arasındaki çatışma... Camus'yle buluşanların hiçbiri, onunla karşılaşınca hayal kırıklığına uğramamıştır. Mutluluk, bir yerde ve her yerde hiçbir şey beklemeden dünyayı, insanları sevmektir, der Camus. Giderek daha çok sevilen bir yazar olması, onun bu sevgisinin yansımasından başka bir şey değildir.</abstract>
+         
+    </book>
+    
+     
+      <book categori="Roman">
+        <title lang="tur">Beyaz Gemi</title>
+        <author>Cengiz Aytmatov</author>
+        <year>2021</year>
+        <price>7,79 TL</price>
+        <ISBN>9789754370430</ISBN>
+        <publication>Ötüken</publication>
+        <PhysicalDescription>168</PhysicalDescription>
+        <abstract>Beyaz Gemi, romanının kahramanı yedi sekiz yaşlarında bir çocuktur. Çocuk; saflığın, bozulmamışlığın ve geleceğin sembolüdür. Aytmatov, çocuğun saf ve temiz dünyasından, hayatın acı ve çıplak gerçeğine uzanan bir roman kurgusu oluşturmayı başarır. Ona göre; çocukluk, gelecekteki insan karakterinin tohumudur. Çocukluk kişinin dilini öğrenmeye ve çevresindeki insanlarla, tabiatla ve özellikle kültürle bağlarını hissetmeye başladığı dönemdir. Aytmatov, Beyaz Gemi'de destan, efsane ve masal gibi bir çok şifahî unsuru kullanmıştır. Geçmişi temsil eden ve masal anlatan dede ile geleceği temsil eden ve hem efsanevî hem de destansı bir mücadele veren çocuk arasında dramatik bir ilişki kurarak insan duygu ve düşüncelerine kendine has yorumlar getirir. Beyaz Gemi, Aytmatov'un, edebiyat âleminde geniş akisler uyandıran, verilmek istenen mesajla yaratılan tiplerin büyük bir uyum sağladığı eserlerinin başında gelmektedir.</abstract>
+        
+    </book>
+
+
+  <book categori="Roman">
+        <title lang="tur">Kızıl Veba</title>
+        <author>Jack London</author>
+        <year>2020</year>
+        <price>5,00 TL</price>
+        <ISBN>9786257070782</ISBN>
+        <publication>Türkiye İş Bankası Kültür Yayınları</publication>
+        <PhysicalDescription>72</PhysicalDescription>
+        <abstract>Jack London, 1912 yılında İngiltere’de London Magazine’de yayımlanmaya başlayan Kızıl Veba yapıtıyla “kıyamet sonrası” edebiyatın öncüleri arasına girmiştir. Nüfustaki, bilim ve teknikteki, ekonomideki sıçramaların büyüsüyle gözlerin kamaştığı bir çağda yazar, uygarlığımızın kırılganlığını anımsatır. Yapıtı milyonlarca insanın doldurduğu şehirlerin ve kırların ıssızlığa teslim oluşundaki hızı bütün çarpıcılığıyla ortaya koyar. Yalnızca nüfusun değil, bilginin, üretimin, hatta dilin yitirilişi, eski uygarlıkla köprü olan bir profesörün gözünden yeni insanlığa anlatılır. Peki yeni insanlık bu ihtiyara kulak verecek midir? Kızıl Veba’da yirminci yüzyılın başından yüz yıl sonrasına, 2010’lar dünyasına bakan Jack London’ın öngörülerindeki keskinlik, kitabı bir klasik olmanın ötesinde, günümüz için hâlâ canlı bir eleştiri kılıyor.</abstract>
+          
+    </book>
+
+
+  <book categori="Şiir">
+        <title lang="tur">Üvercinka</title>
+        <author>Cemal Süreya</author>
+        <year>2020</year>
+        <price>6,00 TL</price>
+        <ISBN>9789750826757</ISBN>
+        <publication>Yapı Kredi Yayınları</publication>
+        <PhysicalDescription>64</PhysicalDescription>
+        <abstract>Cemal Süreya, ilk kitabı Üvercinka 1958’de çıktığında, 27 yaşında, ilk şiiri (“Şarkısı Beyaz”) daha beş yıl önce yayımlanmış genç bir şairdi. Bu kitapla çağcıl Türk şiirinin en çok konuşulan, en çok tartışılan akımlarından İkinci Yeni’nin öncülerinden biri olacağını ne kendisi ne de bir başkası bilebilirdi.</abstract>
+         
+    </book>
+
+  <book categori="Roman">
+        <title lang="en">Güneşi Uyandıralım</title>
+        <author>Jose Mauro De Vasconcelos</author>
+        <year>2019</year>
+        <price>22,10 TL</price>
+        <ISBN>9789750739071</ISBN>
+        <publication>Can Yayınları</publication>
+        <PhysicalDescription>272</PhysicalDescription>
+        <abstract>Şeker Portakalı'nın sevimli, küçük kahramanı Zeze işte yine karşınızda. Gözlerinin içi yine ışıl ışıl, yüreği yine sevgi dolu. Ama hüzünleri, biraz daha büyümüş bir çocuğun hüzünleri. Küçüklüğündeki küçük Şeker Portakalı yok, ama bu kez de yüreğinde sevgili kurbağası var. Zengin ve aşırı alıngan bir aile tarafından evlat edinilmiş. Ama Zeze yeni babasının iyi niyetine karşılık vermiyor. Evdeki biricik dostu, aşçı Dadada. Bir de düşlerindeki, yeri doldurulamayan, yüreğine kadar sokulup yerleşen kurbağa ve bir filmde görerek gerçek babasının yerine koyduğu ünlü Fransız şarkıcısı Maurice Chevalier. Çok parlak bir öğrenci olan Zeze sırılsıklam âşık oluyor. O güne kadar herkesi kızdıran, kimi de tehlikeli şeytanlıklar yapan bir çocuk. Çocukluğunun sonu, yeniyetmeliğin ilk adımları, verilmesi gereken yalnızlık sınavı...Zeze'nin, dostlarını hayâl kırıklığına uğratması olanaksız. Onun her yaştan pek çok dostu olduğunu da iyi biliyoruz. Şeker Portakalı'nın devamı olan Güneşi Uyandıralım'ı da çok seveceğinize inanıyoruz. Dizinin üçüncü kitabı olan Delifişek'te bu kez, Zeze'yi delikanlılık yaşında bulacaksınız.</abstract>
+         
+    </book>
+
+
+  <book categori="Roman">
+        <title lang="tur">Şeker Portakalı</title>
+        <author>Jose Mauro De Vasconcelos</author>
+        <year>2019</year>
+        <price>16,00 TL</price>
+        <ISBN>9789750738609</ISBN>
+        <publication>Can Yayınları</publication>
+        <PhysicalDescription>182</PhysicalDescription>
+        <abstract>“Ne güzel bir şeker portakalı fidanıymış bu! Hem bak, dikeni de yok. Pek de kişilik sahibiymiş, şeker portakalı olduğu ta uzaktan belli. Ben senin boyunda olsaydım başka şey istemezdim.“Ama ben büyük bir ağaç istiyordum.” “İyi düşün, Zezé. Henüz gencecik bir fidan bu. Bir gün koca bir ağaca dönüşecek. Seninle beraber büyüyecek. İki kardeş gibi iyi anlaşacaksınız. Dalını gördün mü? Bir tanecik dalı olsa da sanki özellikle senin binmen için hazırlanmış bir ata benziyor.” Brezilya edebiyatının klasiklerinden Şeker Portakalı, José Mauro de Vasconcelos’un başyapıtı kabul edilir. Yetişkinler dünyasının sınırlamalarına hayal gücüyle meydan okuyan Zezé’nin yoksulluk, acı ve ümit dolu hikâyesi yazarın çocukluğundan derin izler taşır. Beş yaşındaki Zezé hemen her şeyi tek başına öğrenir: sadece bilye oynamayı ve arabalara asılmayı değil, okumayı ve sokak şarkıcılarının ezgilerini de. En yakın sırdaşıysa, anlattıklarına kulak veren ve Minguinho adını verdiği bir şeker portakalı fidanıdır… Şeker Portakalı’nın başkahramanı Zezé’nin büyüdükçe yaşadığı serüvenleri, yazarın Güneşi Uyandıralım ve Delifişek romanlarında izleyebilirsiniz.</abstract>
+        
+    </book>
+
+
+
+  <book categori="Roman">
+        <title lang="tur">Delifişek</title>
+        <author>Jose Mauro De Vasconcelos</author>
+        <year>2019</year>
+        <price>9,75 TL</price>
+        <ISBN>9789750724787</ISBN>
+        <publication>Can Yayınları</publication>
+        <PhysicalDescription>88</PhysicalDescription>
+        <abstract>Brezilyalı Jose Mauro de Vasconcelos'un, kendi yaşam kesitlerinden yola çıkarak yazdığı Şeker Portakalı'nı Türkiye'de yediden yetmişe herkes severek okuyor. Romanın kahramanı küçük Zeze, çocukların en yakın dostu; büyüklerin de yüreklerine yerleşmiş bir sevgili çocuk. Şeker Portakalı'nın devamı ve ikinci bölümü olan Güneşi Uyandıralım'daki Zeze biraz daha büyümüş, artık okullu olmuştur. Küçüklüğündeki sevgili dostu, dert ortağı Şeker Portakalı fidanı yoktur, ama bu kez yüreğinde sevimli Kurbağa'sı vardır. Bu dizinin üçüncü bölümü olan Delifişek'te Zeze'yi daha da büyümüş bulacaksınız. Zeze artık delikanlı olma yolundadır. Yaşamın katı gerçekleriyle karşı karşıyadır. Haklarını aramakta, özgürlüğü yaratmaya çalışmaktadır.</abstract>
+          
+    </book>
+    
+    
+    
+    
+    
